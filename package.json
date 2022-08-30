@@ -37,5 +37,6 @@
         "prettier": "^2.7.1",
         "typescript": "*",
         "vite": "^3.0.7"
-    }
+    },
+    "homepage": "jamesishandsome.github.io"
 }
